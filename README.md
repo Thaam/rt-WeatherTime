@@ -1,6 +1,6 @@
 # rt-WeatherTime
 
-This repository contains a script for a FX-Server/FiveM. You can get realtime clock and weather from the city of your choice.
+This repository contains a script for FX-Server/FiveM. You can get realtime clock and weather from the city of your choice.
 
 # How to use
 
